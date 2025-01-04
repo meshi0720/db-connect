@@ -6,10 +6,10 @@ require_once('funcs.php');
 //}
 
 //1.  DB接続します
-//$db_name = 'meshi0720_ysmetest';               // データベース名
-//$db_host = 'mysql3104.db.sakura.ne.jp';        // DBホスト
-//$db_id   = 'meshi0720_ysmetest';               // ユーザー名
-//$db_pw   = 'ysmetest01';                         // パスワード
+//$db_name = '';               // データベース名
+//$db_host = '';        // DBホスト
+//$db_id   = '';               // ユーザー名
+//$db_pw   = '';                         // パスワード
 
 //try {
 //    $server_info = 'mysql:dbname=' . $db_name . ';charset=utf8;host=' . $db_host;
